@@ -1,0 +1,96 @@
+
+.body{
+    background-color: red;
+    height: auto;
+    width: auto;
+}
+.calculatrice
+{
+        width:300px;
+        height:400px;
+      background-color: transparent;
+        border-style: solid;
+        border-radius: 10px;
+        margin-left: 40%;;
+        margin-top: 200px;
+        padding-left:10px;
+        padding-bottom:40px;
+}
+.calculatrice td
+{
+        height:16.66%;
+}
+.calc_td_resultat
+{
+        text-align:center;
+        padding-top: 50px;
+        padding-bottom: 15px;
+        font-size:25px;
+        font-family: inherit;
+        color:red;
+        margin-bottom:30px;
+}
+.calc_resultat
+{
+        width:90%;
+        text-align:right;
+        height: 25px;
+        border-style:ridge;
+        border-radius: 5px;
+        padding-top: 10px;
+        background-color: transparent;
+      
+}
+.calc_td_calculs
+{
+        text-align:center;
+}
+.calc_calculs
+{
+        width:90%;
+        text-align:left;
+}
+.calc_td_btn
+{
+        width:5%;
+        height:50px;
+}
+.calc_btn
+{
+        width:90%;
+        height:50px;
+        font-size:20px;
+}
+  
+.farah{
+    font-size:30px;
+    font-family:inherit;
+    color:red;
+  margin-bottom: 20px;
+}
+fieldset {
+
+width:300px;
+height:431px;
+background-color: transparent;
+border-style: solid;
+border-radius: 10px;
+margin-left: 6%;;
+margin-top: -480px;
+padding-left:10px;
+padding-bottom:40px;
+ }
+ .fathia2{
+
+    width:300px;
+    height:431px;
+    background-color: transparent;
+    border-style: solid;
+    border-radius: 10px;
+    margin-left: 70%;
+    margin-top: -480px;
+    padding-left:10px;
+    padding-bottom:40px;
+
+     }
+ 
